@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../WDIO_Mobile_Automation"
+		}
+	],
+	"settings": {}
+}
